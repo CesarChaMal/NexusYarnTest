@@ -1,0 +1,11 @@
+{
+	"name": "sample_project2",
+	"version": "0.0.1",
+	"description": "Test Project 2",
+	"dependencies": {
+		"commonjs": "0.0.1"
+	},
+	"publishConfig": {
+		"registry": "http://localhost:8081/repository/npm-snapshots/"
+	}
+}
